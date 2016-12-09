@@ -23,7 +23,7 @@
 
 <body>
 <!--// Pre-Loader -->
-<?php include("preloader.php"); ?>
+<?php //include("preloader.php"); ?>
 
 <!--//site-nav//-->
 <?php include("main_nav.php"); ?>
